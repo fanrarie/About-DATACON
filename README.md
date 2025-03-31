@@ -1,7 +1,5 @@
 # About-DATACON
-# DataCon 大数据安全分析竞赛官网
 
-![DataCon Logo](static/picture/datacon-logo.png)
 
 ## 项目概述
 
